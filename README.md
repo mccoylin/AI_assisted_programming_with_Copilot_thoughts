@@ -1,0 +1,2 @@
+# AI_assisted_programming_with_Copilot_thoughts
+讀書心得
